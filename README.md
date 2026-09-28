@@ -130,6 +130,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
+
+- [Ovoform](https://ovoform.com/) - AI-powered form and survey builder for creating professional forms and surveys from simple prompts.
+  - **Tags**: `Free` `AI` `Forms` `Surveys` `Form Builder` `Productivity`
+  - **Pricing**: Free tier, Pro
+  - **Contact**: https://ovoform.com/
  
   
   
